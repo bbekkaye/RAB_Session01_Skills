@@ -5,9 +5,16 @@
 		<Description>Some description for RAB_Session01_Skills</Description>
 		<Assembly>RAB_Session01_Skills.dll</Assembly>
 		<FullClassName>RAB_Session01_Skills.CmdSkills01</FullClassName>
-		<ClientId>
-			85597B53-1808-4803-8231-9FEF74F9DD02
-		</ClientId>
+		<ClientId>85597B53-1808-4803-8231-9FEF74F9DD02</ClientId>
+		<VendorId>Bachir Bekkaye</VendorId>
+		<VendorDescription>Buildings Code</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Text>FizzBuzz</Text>
+		<Description>Some description for RAB_Session01_Skills</Description>
+		<Assembly>RAB_Session01_Skills.dll</Assembly>
+		<FullClassName>RAB_Session01_Skills.Cmd01Challenge</FullClassName>
+		<ClientId>6AA546F0-A368-4F45-BA49-40A2C7110638</ClientId>
 		<VendorId>Bachir Bekkaye</VendorId>
 		<VendorDescription>Buildings Code</VendorDescription>
 	</AddIn>
